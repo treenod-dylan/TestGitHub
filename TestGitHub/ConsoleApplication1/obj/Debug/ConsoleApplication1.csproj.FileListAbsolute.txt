@@ -1,0 +1,6 @@
+C:\Treenod\TestGitHub\TestGitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Treenod\TestGitHub\TestGitHub\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Treenod\TestGitHub\TestGitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Treenod\TestGitHub\TestGitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Treenod\TestGitHub\TestGitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Treenod\TestGitHub\TestGitHub\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
